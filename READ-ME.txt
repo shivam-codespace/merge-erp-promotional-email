@@ -1,0 +1,8 @@
+MERGE ERP — LONG DEMO INVITATION (scrolling email / WhatsApp)
+  Merge-ERP-Demo-Invitation-Long.png   one tall image (2160 x 15448, retina). Send as-is on WhatsApp, or attach to email.
+  email-long.html + images/            email-safe version: the image in 8 clickable slices (every slice opens WhatsApp) + buttons at the end.
+                                       Upload the images/ folder to your email tool or hosting and keep the names.
+  email-long-inline.html               same with images embedded — open in a browser to preview.
+  page.html + img/                     the editable web page the image was made from (open in Chrome; also usable as a landing page).
+  Subject line: "Your whole school on one screen — report cards and receipts in YOUR format"
+  No pricing is shown; plans are mentioned without amounts.
